@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HOTSHOT-NEWS/static/css/main.62a18e5f.css",
+    "main.js": "/HOTSHOT-NEWS/static/js/main.ac5463fc.js",
+    "index.html": "/HOTSHOT-NEWS/index.html",
+    "main.62a18e5f.css.map": "/HOTSHOT-NEWS/static/css/main.62a18e5f.css.map",
+    "main.ac5463fc.js.map": "/HOTSHOT-NEWS/static/js/main.ac5463fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a18e5f.css",
+    "static/js/main.ac5463fc.js"
+  ]
+}
